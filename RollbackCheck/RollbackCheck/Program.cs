@@ -11,9 +11,6 @@ namespace RollbackCheck
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Console.WriteLine("Bunch of");
-            Console.WriteLine("Unnecessary");
-            Console.WriteLine("stuff!!!!");
         }
     }
 }
