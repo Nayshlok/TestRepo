@@ -11,8 +11,6 @@ namespace RollbackCheck
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Console.WriteLine("How dare you.");
-            Console.WriteLine("This is my code.");
         }
     }
 }
